@@ -43,4 +43,5 @@ flights
 
 ## 1-3 dplyr의 기본사항
 dplyr 함수에는 대부분의 데이터 조작 문제를 해결할 수 있는 5가지 주요함수가 있습니다.
-![](/image/Data transformation1.jpg)
+![](/image/Data_transformation1.jpg)
+sdfsdf
