@@ -5,7 +5,7 @@ tags: 국비교육과정 프로젝트 , Machine learning
 ---
 # Tabular Playground Series - Apr 2021
 
-![](/image/kaggle/Tabular Playground Series Apr-2021.png)
+![](/image/kaggle/TabularPlaygroundSeriesApr2021.PNG)
 
 ## 콘테스트 개요
 
