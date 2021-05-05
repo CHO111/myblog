@@ -1,7 +1,7 @@
 ---
 title: 파이썬 시각화 실습
 date: 2021-04-07 11:46:18
-tags:python
+tags: python
 ---
 ## 라이브러리 호출
 ```python
