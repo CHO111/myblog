@@ -2,7 +2,7 @@
 title: Numpy 정리
 date: 2021-04-06 15:54:47
 tags: python
-Categories: python
+category: Python
 ---
 
 # 1. Numpy 기본함수
