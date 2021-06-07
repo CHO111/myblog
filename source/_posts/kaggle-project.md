@@ -1,7 +1,8 @@
 ---
 title: Tabular Playground Series - Apr 2021(kaggle 대회)
 date: 2021-05-05 20:24:20
-tags: Machine learning
+tags: Machine learning , Project
+Categories: Project
 ---
 # Tabular Playground Series - Apr 2021
 
