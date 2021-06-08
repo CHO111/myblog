@@ -32,10 +32,10 @@ category: Project
 　　※ 월간 데이콘은 데이콘 브론즈 이상의 티어를 갖고있는 분들만 수상이 가능합니다. 
 
 **6. 기여**
-    * 시각화,  ppt 제작
+ * 시각화,  ppt 제작
 
 **7. 결과** 
-    * 집계중
+ * 집계중
 
 ## 소스 코드
 [Dacon에서 제출물보기](https://dacon.io/competitions/official/235724/codeshare/2675)
