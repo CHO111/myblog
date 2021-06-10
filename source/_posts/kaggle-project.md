@@ -33,6 +33,12 @@ category: Project
  * 초보자의 더 많은 참여를 유도하기 위해 Kaggle 상품은이 시리즈에서 1 인당 한 번만 제공됩니다. 
  * 이전에 우승 한 사람이 있으면 다음 팀으로 건너 뜁니다.
 
+**6. 기여**
+ * pycaret모델 만들기 및 파라미터 모델튜닝, ppt 제작
+
+**7. 결과** 
+ * 전체 1244팀중 280등(TOP23%)
+
 ## 소스 코드
 [Kaggle에서 제출물보기](https://www.kaggle.com/chohyungkwon/pycaret-stacking-2)
 
