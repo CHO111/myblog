@@ -41,4 +41,4 @@ category: Project
 [Dacon에서 제출물보기](https://dacon.io/competitions/official/235724/codeshare/2675)
 
 ## 대회 발표 자료 
-[pdf](https://github.com/CHO111/Project/blob/main/Dacon/FILE/%EB%8D%B0%EC%9D%B4%EC%BD%98-%EC%8B%9C%EA%B0%81%ED%99%94.pdf)
+[pdf](https://github.com/CHO111/Project/blob/main/%ED%95%9C%EA%B5%AD%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_Dacon/FILE/%EB%8D%B0%EC%9D%B4%EC%BD%98-%EC%8B%9C%EA%B0%81%ED%99%94.pdf)
