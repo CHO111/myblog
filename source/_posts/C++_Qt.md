@@ -8,7 +8,7 @@ category: C++
 
 ![](https://user-images.githubusercontent.com/54093963/122520501-a178b100-d04e-11eb-9900-16dfb2c721c1.png)
 
-사진과 같은 GUI를 구현 해보자 .
+사진과 같은 GUI를 구현 해보자!. 
 
 프로젝트명은 QtWidgetsApplication1 로 생성하였다.
 
