@@ -2,7 +2,9 @@
 title: Dacon 부동산 시각화 Project
 date: 2021-06-03 01:04:46
 tags: Deep learning , Project
-category: Project
+categories:
+    - Project
+    - Dacon
 ---
 # 한국 부동산 데이터 시각화 경진대회
 
