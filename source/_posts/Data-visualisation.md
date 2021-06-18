@@ -1,7 +1,7 @@
 ---
 title: 데이터 시각화
 date: 2021-03-29 16:40:15
-tags:R
+tags: R
 category: R
 ---
 # 1. 소개

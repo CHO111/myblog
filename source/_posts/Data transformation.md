@@ -1,7 +1,7 @@
 ---
 title: 데이터 변환 정리
 date: 2021-03-23 17:25:01
-tags:R
+tags: R
 category: R
 ---
 # 1. 소개
