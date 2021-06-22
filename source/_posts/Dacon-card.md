@@ -2,7 +2,9 @@
 title: Dacon-card
 date: 2021-06-16 19:40:21
 tags: Machine learning , python
-category: Project
+categories:
+    - Project
+    - Dacon
 ---
 # 신용카드 사용자 연체 예측 AI 경진대회
 

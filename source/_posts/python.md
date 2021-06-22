@@ -2,7 +2,7 @@
 title: python 기초문법
 date: 2021-04-06 11:47:52
 tags: python
-category: Python
+categories: Python
 ---
 
 # 1. Hello World  출력

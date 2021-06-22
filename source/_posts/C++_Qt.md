@@ -2,7 +2,7 @@
 title: C++ Qt
 date: 2021-06-18 15:55:34
 tags: C++, Qt
-category: C++
+categories: C++
 ---
 # C++ Qt로 간단한 GUI만들기
 
