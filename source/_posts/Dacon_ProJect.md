@@ -37,7 +37,7 @@ categories:
  * 시각화,  ppt 제작
 
 **7. 결과** 
- * 집계중
+ * 3등
 
 ## 소스 코드
 [Dacon에서 제출물보기](https://dacon.io/competitions/official/235724/codeshare/2675)
