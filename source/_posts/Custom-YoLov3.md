@@ -22,5 +22,5 @@ categories:
  * 어설프지만 작동은 잘된다.
 
 ## 발표자료 링크
-[Git Hub]()
+[pdf](https://github.com/CHO111/Project/blob/main/Custom%20YoLov3/file/YOLOv3_teamProj_final.pdf)
 
